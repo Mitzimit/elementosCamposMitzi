@@ -17,7 +17,7 @@ public class Malo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Mi primer proyecto sin Spring :p");
+        System.out.println("Mi primer proyecto sin Spring ooooooo miauuuuuuuuuu :p");
         
     }
     
